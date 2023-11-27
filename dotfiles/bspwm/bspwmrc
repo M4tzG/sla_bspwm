@@ -24,13 +24,13 @@ bspc rule -a krita state=fullscreen border=off
 
 xset b off
 
-export _JAVA_AWT_WM_NONREPARENTING=1 # p/ fazer o intellij, etc do java funfar
+#export _JAVA_AWT_WM_NONREPARENTING=1 # p/ fazer o intellij, etc do java funfar
 
 
 xrandr --output HDMI-1 --mode 1384x900_60.00
 
-
-feh --bg-scale /home/matheus/Imagens/A1/0002.5/escolhidos_rice_1/kill_la_kill_07.jpg
+ # background img
+feh --bg-scale /home/matheus/Imagens/A1/0002.5/escolhidos_rice_1/kill_la_kill_07.jpg 
 # xgifwallpaper /home/matheus/Downloads/walpape.gif # wallpaper animeado
 
 picom &
