@@ -1,2 +1,3 @@
-# rice_save_bspwm
+# apenas alguma coisa do bspwm q eu fiz
+
 salvo
